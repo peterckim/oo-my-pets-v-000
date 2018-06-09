@@ -15,5 +15,4 @@ class Fish
   def mood
     @mood
   end
-  
 end
