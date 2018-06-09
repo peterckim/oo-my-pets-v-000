@@ -6,6 +6,10 @@ class Owner
     @@all << self
   end
   
+  def self.all
+    @@all
+  end
+  
   def species(species)
     @species = species
   end
