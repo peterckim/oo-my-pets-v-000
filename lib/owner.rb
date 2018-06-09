@@ -27,7 +27,6 @@ class Owner
     @species
   end
   
-  
   def pets=(pets)
     @pets = pets
   end
