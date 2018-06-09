@@ -19,9 +19,8 @@ class Owner
     @@all = []
   end
   
-  def species(species = "human")
-    
-    @species = species
+  def species
+    @species
   end
   
   def pets=(pets)
