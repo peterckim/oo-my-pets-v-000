@@ -5,6 +5,10 @@ class Cat
     @mood = mood
   end
   
+  def name=(name)
+    @name
+  end
+  
   def mood=(mood)
     @mood = mood
   end
