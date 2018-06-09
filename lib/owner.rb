@@ -59,4 +59,8 @@ class Owner
       dog.mood = "happy"
     end
   end
+  
+  def play_with_cats
+    
+  end
 end
